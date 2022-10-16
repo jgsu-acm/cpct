@@ -124,3 +124,5 @@
         \end{tabularx}
     \end{center}
 }
+
+\lstset{language=C++}
